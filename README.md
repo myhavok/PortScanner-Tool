@@ -14,3 +14,4 @@ This project is a Python-based port scanner designed to identify open ports on a
 
 
 ###Tool in Action
+[Output is shown in the terminal](https://github.com/myhavok/PortScanner-Tool/blob/main/images/Screenshot%202024-08-02%20at%202.20.03%E2%80%AFAM.png)
